@@ -1,0 +1,4 @@
+[submodule "dev-hacks"]
+	path = dev-hacks
+	url = https://github.com/ololobus/dev-hacks.git
+	branch = master
